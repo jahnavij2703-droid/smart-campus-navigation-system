@@ -28,3 +28,14 @@ How to Run
 Project Goal
 
 To help users navigate a college campus easily using map-based navigation.
+
+Screenshots
+
+Map View
+![Map View](map-view.png)
+
+Navigation Feature
+![Navigation](navigation.png)
+
+Search Feature
+![Search](search-feature.png)
